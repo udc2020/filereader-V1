@@ -1,0 +1,20 @@
+body{
+   background-color: antiquewhite;
+  
+}
+.container{
+   height: 90vh;
+   display: grid;
+   place-items: center;
+}
+.drop-page-hover{
+   background-color: rgba(0, 0, 0, 0.787);
+   border: 3px dashed #f2f22f;
+}
+
+.drag-input{
+   display: none;
+}
+.webviewer{
+   height: 100vh;
+}
